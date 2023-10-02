@@ -21,4 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rijurekh24&icon=3&color=1)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/rijurekh24/rijurekh24/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
